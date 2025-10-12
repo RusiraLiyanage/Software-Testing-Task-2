@@ -1,6 +1,8 @@
 # j2html Test Suite
 
-## Group Members (UOW "Software Testing and Analysis" subject group members for group assignment task 2 - 1st year 2nd Semester)
+## University of Wollongong - CSCI926 Software Testing and Analysis
+
+## Group Members
 
 ### Rusira Liyanage
 ### Vincent Paul
